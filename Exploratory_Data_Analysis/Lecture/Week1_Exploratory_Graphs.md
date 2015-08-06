@@ -34,8 +34,8 @@ hist(pollution$pm25, col ="green", breaks=100) #shape of dist
 rug(pollution$pm25)                #more detail!
 abline(v = 12, lwd = 2)
 abline(v = median(pollution$pm25), col = "magenta", lwd =4)
-#v   : location of the line
-#col : color of the line
-#lwd : thickeness of the line
+*v   : location of the line
+*col : color of the line
+*lwd : thickeness of the line
 
 barplot(table(pollution$region), col = "wheat", main = "Number of the certification")
