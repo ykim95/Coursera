@@ -1,7 +1,6 @@
 #Week1
-##Principles of Analytic Graphics
 
-###Principles of Analytic Graphics
+##Principles of Analytic Graphics
 * 1 : Show comparisions
 * 2 : Show causality, mechanism, explanation, systematic structure
     - Frame works
